@@ -22,7 +22,7 @@
     "react-dom": "^18",
     "react-use": "^17.5.1",
     "viem": "2.x",
-    "wagmi": "^2.13.2"
+    "wagmi": "^2.14.16"
   },
   "devDependencies": {
     "@types/node": "^20",
